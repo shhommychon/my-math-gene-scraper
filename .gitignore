@@ -1,6 +1,6 @@
 ### custom gitignore ###
-
-
+*.xlsx
+**/*.xlsx
 
 
 
